@@ -1,15 +1,28 @@
-Welcome to your new dbt project!
+Unlocking-New-Possibilities-Integrating-DBT-with-Microsoft-Fabric
+========
 
-### Using the starter project
+*Author: [Emmanuel Ikpesu](https://www.linkedin.com/in/emmanuel-ikpesu-393708132/)*
 
-Try running the following commands:
-- dbt run
-- dbt test
+*Date: 2nd March 2024*
+
+*Event: DBT-Lagos-Meetup* [Community Link](getdbt.com/community)
+
+&nbsp;
+Project Contents
+================
+Ms. Fabric is Microsoft's latest all-in-one analytical platform, and it's designed to give a hands-on experience on integrating dbt with Fabric.
+
+This Project is built using the [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric), [GitHub](https://github.com/) and [dbt](https://www.getdbt.com/)
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+### Key Takeaways:
+- Ms. Fabric Core Concept
+- DBT Integration with Fabric
+
+### Prerequisites:
+
+- Ms. Fabric Account
+- A dbt Cloud Account
+- A GitHub Account
+- Basic Understanding of Python & SQL
+- Fundamental Knowledge of Analytical Engineering
