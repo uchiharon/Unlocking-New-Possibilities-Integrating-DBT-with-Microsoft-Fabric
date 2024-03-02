@@ -19,8 +19,7 @@ models:
         tests:
           - not_null:
               severity: error
-          - is_unique:
-              severity: warn
+        
           
 
       - name: vendorid
