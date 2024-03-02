@@ -15,7 +15,7 @@ with tripdata as
 {%- endif %} *,
     row_number() over(partition by vendorID, lpepPickupDatetime order by lpepPickupDatetime) as rn
   from {{ source('nyc_taxi', 'nyctlc')}}
-  where vendorID is not null 
+  where vendorID is not null and lpepPickupDatetime is not null
 )
 select
     -- identifiers
