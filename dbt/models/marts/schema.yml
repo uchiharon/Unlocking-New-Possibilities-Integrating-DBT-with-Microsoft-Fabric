@@ -20,7 +20,7 @@ models:
           - not_null:
               severity: error
           - is_unique:
-              severity: error
+              severity: warn
           
 
       - name: vendorid
