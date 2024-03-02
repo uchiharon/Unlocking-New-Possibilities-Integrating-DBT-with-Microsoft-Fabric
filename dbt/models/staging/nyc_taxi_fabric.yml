@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: nyc_taxi
+    database: NYC_Taxi_DW
+    schema: dbo
+    tables:
+      - name: nyctlc
+
+models:
+  - name: init
+
+
+
